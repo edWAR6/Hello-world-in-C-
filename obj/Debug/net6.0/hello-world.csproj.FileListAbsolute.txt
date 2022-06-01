@@ -1,0 +1,15 @@
+/Users/eduardo/Teaching/Programación y Lógica 1/workshops/02 - Hello World/hello-world/bin/Debug/net6.0/hello-world
+/Users/eduardo/Teaching/Programación y Lógica 1/workshops/02 - Hello World/hello-world/bin/Debug/net6.0/hello-world.deps.json
+/Users/eduardo/Teaching/Programación y Lógica 1/workshops/02 - Hello World/hello-world/bin/Debug/net6.0/hello-world.runtimeconfig.json
+/Users/eduardo/Teaching/Programación y Lógica 1/workshops/02 - Hello World/hello-world/bin/Debug/net6.0/hello-world.dll
+/Users/eduardo/Teaching/Programación y Lógica 1/workshops/02 - Hello World/hello-world/bin/Debug/net6.0/hello-world.pdb
+/Users/eduardo/Teaching/Programación y Lógica 1/workshops/02 - Hello World/hello-world/obj/Debug/net6.0/hello-world.csproj.AssemblyReference.cache
+/Users/eduardo/Teaching/Programación y Lógica 1/workshops/02 - Hello World/hello-world/obj/Debug/net6.0/hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardo/Teaching/Programación y Lógica 1/workshops/02 - Hello World/hello-world/obj/Debug/net6.0/hello-world.AssemblyInfoInputs.cache
+/Users/eduardo/Teaching/Programación y Lógica 1/workshops/02 - Hello World/hello-world/obj/Debug/net6.0/hello-world.AssemblyInfo.cs
+/Users/eduardo/Teaching/Programación y Lógica 1/workshops/02 - Hello World/hello-world/obj/Debug/net6.0/hello-world.csproj.CoreCompileInputs.cache
+/Users/eduardo/Teaching/Programación y Lógica 1/workshops/02 - Hello World/hello-world/obj/Debug/net6.0/hello-world.dll
+/Users/eduardo/Teaching/Programación y Lógica 1/workshops/02 - Hello World/hello-world/obj/Debug/net6.0/refint/hello-world.dll
+/Users/eduardo/Teaching/Programación y Lógica 1/workshops/02 - Hello World/hello-world/obj/Debug/net6.0/hello-world.pdb
+/Users/eduardo/Teaching/Programación y Lógica 1/workshops/02 - Hello World/hello-world/obj/Debug/net6.0/hello-world.genruntimeconfig.cache
+/Users/eduardo/Teaching/Programación y Lógica 1/workshops/02 - Hello World/hello-world/obj/Debug/net6.0/ref/hello-world.dll
